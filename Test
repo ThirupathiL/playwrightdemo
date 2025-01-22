@@ -10,3 +10,5 @@ understandig the repo behaviour Okay
 github test practice
 
 print {"your name"}
+ else
+ print{"my name"}
